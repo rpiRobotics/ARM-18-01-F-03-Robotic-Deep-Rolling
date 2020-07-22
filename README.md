@@ -8,3 +8,6 @@ Robotic deep rolling project with Raytheon (formerly UTRC) code repository links
 
 
 [Github Data Repository for Project](https://github.com/rpiRobotics/ARM-18-01-UTRC-Robotic-Deep-Rolling)
+
+
+[Notes and Simulation Data](https://github.com/aelias36/deep-rolling-alex-contribution)
